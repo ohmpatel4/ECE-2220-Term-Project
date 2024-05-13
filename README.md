@@ -10,10 +10,3 @@ The idea of mimicking a Whac-A-Mole game on the FPGA depends on the LEDs and sli
 
 Additionally, the board would display a timer of 30, 20 or10 seconds selected by the player before the game is started. The objective is to hit as many moles as possible, to a maximum of 32, within the timer. Successfully hitting all 32 moles with the time would turn all LEDs off indicating that the game is over. A single push button is responsible for starting and resetting the game while the other three push buttons set the timer.
 
-
-**Team Members:**
-
-- Ohm Patel
-- Manal Shahab
-- Aida Mesgar Zadeh
-- Hana Dunlop
